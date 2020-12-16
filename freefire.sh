@@ -16,9 +16,12 @@ echo "##" $ku " github: github.com/RidwanKechil"
 echo $me "##" $ku "creator : Ridwan Kechil"
 echo $me "##" $ku "Subscribe : Ridwan Kechil "
 echo $me "###########################"
+sleep 3
 echo $cy " Cheat Free Fire New"
 echo $me "jika membutuhkan script tentang freefire kunjungi whatsapp gw"
+
 termux-open https://wa. me/+6285731928045?text=Ada+Script+Apa+Saja+Kak+
+
 echo "Siapa Nama Kamu???... "
 read -p "root@[Ridwan•Kechil]=> " nick
 echo $ku "Selamat Datang " $nick
