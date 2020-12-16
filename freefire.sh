@@ -53,7 +53,7 @@ clear
 echo "Sabar Broo"
 echo $ku "Langsung Download aja broo "
 echo $me "No Password"
-termux-open https://www.mediafire.com/download/0jz1wt2ko5h1zep
+termux-open https://www.mediafire.com/download/vbtv0ble3susrlx
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
