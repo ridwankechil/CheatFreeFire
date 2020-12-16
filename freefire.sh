@@ -25,6 +25,7 @@ termux-open https://wa.me/+6285731928045?text=Ada+Script+Apa+Saja+Kak+
 echo "Siapa Nama Kamu???... "
 read -p "root@[Ridwan•Kechil]=> " nick
 echo $ku "Selamat Datang " $nick
+sleep 3
 echo
 clear
 
@@ -41,6 +42,8 @@ echo $ku "=>Berbentuk Script tingal di paste aja "
 echo $me "[!] Kalo Gak Faham Ada Tutorialnya nanti"
 echo $or "pilih nomor 1/2"
 read -p "[pilih 1/2]> " bro
+clear
+
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 echo
