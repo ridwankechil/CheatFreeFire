@@ -55,7 +55,6 @@ echo $ku "Langsung Download aja broo "
 echo $me "No Password"
 termux-open https://www.mediafire.com/download/0jz1wt2ko5h1zep
 fi
-fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
@@ -67,5 +66,5 @@ echo $ku "estrak pakek z Archirver"
 sleep 4
 termux-open https://www.mediafire.com/download/ihfaewe1rkknpvu
 fi
-fi
+
 echo " makasih" $pu
